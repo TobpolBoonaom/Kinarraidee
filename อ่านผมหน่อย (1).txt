@@ -1,0 +1,2 @@
+ให้ดาวโหลด folder KinarraiDee ไปทั้งหมด
+จากนั้น ให้กด กขวาที่ index.html และทำการเปิดด้วย Chrome หรือ Web browser ของท่าน
